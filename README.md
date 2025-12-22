@@ -1,47 +1,52 @@
-# Video Game Design Workshop
+# Workshop Hub
 
-![Workshop-google-meet-pic](demo.jpg)
+![Workshop-game-design-google-meet-pic](demo.jpg)
 
-## Core Concepts Covered
+A repository for my workshop drafts, documents, and assets.
 
-### The Designer's Toolkit
+1. [Game Design Fundamentals](#game-design-fundamentals)
+2. [LLM Fundamentals](#llm-fundamentals)
+3. [Web Development Roadmap](#web-development-roadmap)
+4. [Reinforcment Learning Fundamentals](#reinforcment-learning-fundamentals)
 
-- Game Design Documents (GDD) as living bibles
-- Pitch decks, balance spreadsheets, asset lists
-- Playtest reports and iteration logs
+## GAME DESIGN FUNDAMENTALS - Presented
 
-### Critical Frameworks
+### Markdown Files
 
-- MDA analysis for reverse-engineering player experience
-- Vision statements as emotional contracts
-- Mechanical contradiction identification
-- Target audience alignment
+- [Game Design Workshop Outlines](./game-design-fundamentals/markdown/game-design-workshop-outlines.md)
+- [Game Design Workshop - Draft 1](./game-design-fundamentals/markdown/game-design-workshop-first-draft.md)
+- [Game Design Workshop - Draft 2](./game-design-fundamentals/markdown/game-design-workshop-second-draft.md)
+- [Game Design Workshop - Draft 3](./game-design-fundamentals/markdown/game-design-workshop-third-draft.md)
+- [Game Design Workshop - Complete Version](./game-design-fundamentals/markdown/game-design-workshop-complete.md)
+- [Game Design Workshop - Complete Version (Summarized)](./game-design-fundamentals/markdown/game-design-workshop-complete-summarized.md)
 
-### Case Studies Include
+### PDF Document Files
 
-- Red Dead Redemption 2 (honor system, camp mechanics)
-- Alien: Isolation (saving mechanics evolution)
-- Baldur's Gate 3 (player agency and dice rolls)
-- Hades (failure as progress)
-- Doom 2016 (push-forward combat)
+- [Game Design Workshop Outlines](./game-design-fundamentals/pdf/Game%20Design%20Workshop%20-%20Outlines.pdf)
+- [Game Design Workshop - Complete Version](./game-design-fundamentals/pdf/Game%20Design%20and%20Game%20Designer%20Workshop%20-%20Complete%20.pdf)
+- [Game Design Workshop - Complete Version (Summarized)](./game-design-fundamentals/pdf/Game%20Design%20and%20Game%20Designer%20Workshop%20-%20Complete%20-%20Summary.pdf)
 
-## Interactive Elements
+### Assets
 
-- MDA analysis activity
-- Discussion of mechanical contradictions
-- Q&A on industry realities and career paths
+- [Go here](./game-design-fundamentals/assets/)
 
-## Markdown Files
+## LLM FUNDAMENTALS - Planning
 
-- [Game Design Workshop Outlines](./markdown/game-design-workshop-outlines.md)
-- [Game Design Workshop - Draft 1](./markdown/game-design-workshop-first-draft.md)
-- [Game Design Workshop - Draft 2](./markdown/game-design-workshop-second-draft.md)
-- [Game Design Workshop - Draft 3](./markdown/game-design-workshop-third-draft.md)
-- [Game Design Workshop - Complete Version](./markdown/game-design-workshop-complete.md)
-- [Game Design Workshop - Complete Version (Summarized)](./markdown/game-design-workshop-complete-summarized.md)
+### Markdown Files
 
-## PDF Document Files
+- [LLM Fundamentals Workshop Outlines](./llm-fundamentals/markdown/llm-fundamentals-workshop-outlines.md)
+- [LLM Fundamentals Workshop - Draft 1](./llm-fundamentals/markdown/llm-fundamentals-workshop-first-draft.md)
 
-- [Game Design Workshop Outlines](./pdf/Game%20Design%20Workshop%20-%20Outlines.pdf)
-- [Game Design Workshop - Complete Version](./pdf/Game%20Design%20and%20Game%20Designer%20Workshop%20-%20Complete%20.pdf)
-- [Game Design Workshop - Complete Version (Summarized)](./pdf/Game%20Design%20and%20Game%20Designer%20Workshop%20-%20Complete%20-%20Summary.pdf)
+## WEB DEVELOPMENT ROADMAP - Planning
+
+### Markdown Files
+
+- [Web Development Roadmap Workshop Outlines](./web-development-roadmap/markdown/web-development-workshop-outlines.md)
+- [Web Development Roadmap Workshop - Draft 1](./web-development-roadmap/markdown/web-development-workshop-first-draft.md)
+
+## REINFORCMENT LEARNING FUNDAMENTALS - Planning
+
+### Markdown Files
+
+- [Reinforcment Learning Fundamentals Workshop Outlines](./reinforcement-learning-fundamentals/markdown/reinforcement-learning-workshop-outlines.md)
+- [Reinforcment Learning Fundamentals Workshop - Draft 1](./reinforcement-learning-fundamentals/markdown/reinforcement-learning-workshop-first-draft.md)
