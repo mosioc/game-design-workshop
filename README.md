@@ -9,7 +9,9 @@ A repository for my workshop drafts, documents, and assets.
 3. [Web Development Roadmap](#web-development-roadmap)
 4. [Reinforcment Learning Fundamentals](#reinforcment-learning-fundamentals)
 
-## GAME DESIGN FUNDAMENTALS - Presented
+## GAME DESIGN FUNDAMENTALS
+
+Presented.
 
 ### Markdown Files
 
@@ -30,21 +32,27 @@ A repository for my workshop drafts, documents, and assets.
 
 - [Go here](./game-design-fundamentals/assets/)
 
-## LLM FUNDAMENTALS - Planning
+## LLM FUNDAMENTALS
+
+Planning.
 
 ### Markdown Files
 
 - [LLM Fundamentals Workshop Outlines](./llm-fundamentals/markdown/llm-fundamentals-workshop-outlines.md)
 - [LLM Fundamentals Workshop - Draft 1](./llm-fundamentals/markdown/llm-fundamentals-workshop-first-draft.md)
 
-## WEB DEVELOPMENT ROADMAP - Planning
+## WEB DEVELOPMENT ROADMAP
+
+Planning.
 
 ### Markdown Files
 
 - [Web Development Roadmap Workshop Outlines](./web-development-roadmap/markdown/web-development-workshop-outlines.md)
 - [Web Development Roadmap Workshop - Draft 1](./web-development-roadmap/markdown/web-development-workshop-first-draft.md)
 
-## REINFORCMENT LEARNING FUNDAMENTALS - Planning
+## REINFORCMENT LEARNING FUNDAMENTALS
+
+Planning.
 
 ### Markdown Files
 
