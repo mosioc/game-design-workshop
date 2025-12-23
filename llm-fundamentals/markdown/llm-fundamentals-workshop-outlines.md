@@ -180,6 +180,8 @@ Understanding Large Language Models: From Pre-training to Production
 
 Main Source: [Andrej Karpathy - Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI&t)
 
+- <https://newsletter.systemdesign.one/p/llm-concepts>
+
 ## Contact & Preparation
 
 **Presenter:** Mehdi Maleki  
