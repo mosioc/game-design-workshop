@@ -41,6 +41,10 @@ Planning.
 - [LLM Fundamentals Workshop Outlines](./llm-fundamentals/markdown/llm-fundamentals-workshop-outlines.md)
 - [LLM Fundamentals Workshop - Draft 1](./llm-fundamentals/markdown/llm-fundamentals-workshop-first-draft.md)
 
+### PDF Document Files
+
+- [LLM Fundamentals Workshop Outlines](./llm-fundamentals/pdf/llm-fundamentals-workshop-outlines.pdf)
+
 ## WEB DEVELOPMENT ROADMAP
 
 Planning.
@@ -50,6 +54,10 @@ Planning.
 - [Web Development Roadmap Workshop Outlines](./web-development-roadmap/markdown/web-development-workshop-outlines.md)
 - [Web Development Roadmap Workshop - Draft 1](./web-development-roadmap/markdown/web-development-workshop-first-draft.md)
 
+### PDF Document Files
+
+- [Web Development Roadmap Workshop Outlines](./web-development-roadmap/pdf/web-development-workshop-outlines.pdf)
+
 ## REINFORCMENT LEARNING FUNDAMENTALS
 
 Planning.
@@ -58,3 +66,7 @@ Planning.
 
 - [Reinforcment Learning Fundamentals Workshop Outlines](./reinforcement-learning-fundamentals/markdown/reinforcement-learning-workshop-outlines.md)
 - [Reinforcment Learning Fundamentals Workshop - Draft 1](./reinforcement-learning-fundamentals/markdown/reinforcement-learning-workshop-first-draft.md)
+
+### PDF Document Files
+
+- [Reinforcment Learning Fundamentals Workshop Outlines](./reinforcement-learning-fundamentals/pdf/reinforcement-learning-workshop-outlines.pdf)
